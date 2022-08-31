@@ -1,6 +1,6 @@
 {
   "name": "v-topo-draw",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "author": "lirui",
   "main": "lib/v-topo-draw.umd.min.js",
