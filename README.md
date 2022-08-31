@@ -12,7 +12,7 @@ import VTopoDraw from 'v-topo-draw'
 
 Vue.use(VTopoDraw)
 ```
-<br/><br/>
+<br/>
 
 ## 参数
 ```
